@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    margin-left: 20px;
+
+}
+.top>h1{
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+margin-top: 15px;
+}
+.top>p{
+    color: #000;
+    font-family: Inter;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.top>a{
+    color: #000;
+font-family: Inter;
+font-size: 30px;
+}
+.image{
+    margin: 20px 30px;
+}
+.image>a{
+    color: #000;
+font-family: Inter;
+font-size: 30px;
+}
+.bottom{
+    margin-left: 20px;
+}
+.bottom>h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.bottom>ol>li{
+    color: #000;
+font-family: Inter;
+font-size: 30px;
+margin: 20px 40px;
+}
